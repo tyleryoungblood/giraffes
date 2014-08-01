@@ -26,7 +26,7 @@ var giraffeGenerator = {
       'text=' + encodeURIComponent(QUERY) + '&' +
       'safe_search=1&' +
       'content_type=1&' +
-      'sort=interestingness-desc&' +
+      'sort=date-posted-desc&' +
       'per_page=20',
 
   /**
