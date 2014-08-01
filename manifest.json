@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Portia's Giraffes",
+  "description": "This extension will load the latest giraffe photos from Flickr.",
+  "version": "1.0",
+
+  "permissions": [
+    "https://secure.flickr.com/"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
